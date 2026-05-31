@@ -1,0 +1,25 @@
+Dataset Information
+
+Dataset Name - FER2013 (Facial Expression Recognition 2013)
+
+ Dataset Source - Kaggle
+
+Dataset Link - https://www.kaggle.com/datasets/msambare/fer2013
+
+ Dataset Description - The FER2013 dataset contains grayscale facial images of size 48×48 pixels. The images are categorized into seven emotion classes:
+
+* Angry
+* Disgust
+* Fear
+* Happy
+* Neutral
+* Sad
+* Surprise
+
+Dataset Statistics
+
+* Training Images: ~28,709
+* Testing Images: ~7,178
+* Total Images: ~35,887
+* Number of Classes: 7
+* Image Type: Grayscale (48×48 pixels)
